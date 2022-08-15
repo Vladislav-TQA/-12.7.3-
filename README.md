@@ -52,10 +52,6 @@
 
 ![image](https://user-images.githubusercontent.com/110028579/184705742-f6b50682-ba52-4d9e-ac35-6811f7a3e417.png)
 
-Консоль:
-
-![image](https://user-images.githubusercontent.com/110028579/184705833-d74814b9-55a0-40e3-9544-66e261a15e3c.png)
-
 Итог:
 
 ![image](https://user-images.githubusercontent.com/110028579/184706212-07e5f3bf-2582-41db-b7d8-0258f0e6f878.png)
