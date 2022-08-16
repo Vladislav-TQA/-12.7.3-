@@ -23,7 +23,7 @@
 
 ![image](https://user-images.githubusercontent.com/110028579/184691493-21fbae1f-c158-4ccb-99e9-532e396c432f.png)
 
-Консоль:
+Терминал:
 
 ![image](https://user-images.githubusercontent.com/110028579/184691677-d8115472-44a9-42f8-8420-c17d79e76c9d.png)
 
@@ -43,11 +43,11 @@
 
 ![image](https://user-images.githubusercontent.com/110028579/184703888-a088b3c4-cb04-428f-8e7d-140f3d80c175.png)
 
-Консоль:
+Терминал:
 
 ![image](https://user-images.githubusercontent.com/110028579/184704325-6ccde207-8294-48b4-b3af-2baf4a21e18b.png)
 
-6. Добавляем к программе функцию max, которая будет вводить максимальное значение в консоли с предварительным описанием, вставив все это в функцию принт
+6. Добавляем к программе функцию max, которая будет выводить максимальное значение в терминале с предварительным описанием, вставив все это в функцию ptint
 
 ![image](https://user-images.githubusercontent.com/110028579/184705742-f6b50682-ba52-4d9e-ac35-6811f7a3e417.png)
 
